@@ -9,8 +9,8 @@ class Handler:
         self.audience_xpath = '//*[@id="u_0_0"]/div/div/div/div[1]/div[1]/div[2]/ul[3]/li[2]'
         self.market_input_element = '//*[@id="u_0_0"]/div/div/div/div[1]/div[2]/div/div[2]/div[2]/div/div[1]/div[1]/div[1]/div/div/div[2]/div/div[3]/div/div/div/div/div[7]/div/div/div/div/div/div[2]/div/div/div[1]/div/div[2]/div/div[3]/div[1]/span/label/input'
         self.data_div_selector = 'div[data-testid="targeting_detailed_targeting"]'
-        self.username = "wswangsui@163.com"
-        self.password = "462315ws"
+        self.username = "xxxxxxx"
+        self.password = "ssssssss"
         self.driver = webdriver.Chrome()
 
     def open_website(self):
